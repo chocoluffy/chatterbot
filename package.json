@@ -1,0 +1,16 @@
+{
+  "name": "chatterbot",
+  "version": "1.0.0",
+  "description": "Important fact that chatterbot must be installed under python3. Thus, in order to deploy on Ubuntu server, we must create an virtual environment that have python3 support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.75.0"
+  }
+}

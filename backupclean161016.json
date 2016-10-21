@@ -1,0 +1,6865 @@
+{
+	"1": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你还会做什么"
+			}
+		]
+	},
+	"2": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "1"
+			}
+		]
+	},
+	"120": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "lol我也觉得"
+			}
+		]
+	},
+	"666": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "攻壳机动队"
+			}
+		]
+	},
+	"24678": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "快来快来数一数"
+			}
+		]
+	},
+	"66666": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你咋老是无法提供服务不给小费了"
+			}
+		]
+	},
+	"6666666": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "企图用java结束对话？"
+			}
+		]
+	},
+	"": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "哎呀不要老javajava的了"
+			}
+		]
+	},
+	"你认识我吗": {
+		"in_response_to": []
+	},
+	"喂喂": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "哭哭"
+			},
+			{
+				"occurrence": 1,
+				"text": "你在干嘛"
+			}
+		]
+	},
+	"saber": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啧啧啧"
+			}
+		]
+	},
+	"竜神の剣を喰らえ。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "龍が我が敵を喰らう"
+			}
+		]
+	},
+	"热水": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喝"
+			}
+		]
+	},
+	"否极泰来？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "否"
+			}
+		]
+	},
+	"php": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "冯小姐是最可爱的女孩子"
+			},
+			{
+				"occurrence": 1,
+				"text": "java"
+			}
+		]
+	},
+	"python": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "所以呢"
+			}
+		]
+	},
+	"沉迷于输出": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "见死不救"
+			}
+		]
+	},
+	"离银河系最近的大型星系叫什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "仙女座星系"
+			}
+		]
+	},
+	"你认识江蛤蛤吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "装傻？"
+			},
+			{
+				"occurrence": 1,
+				"text": "没什么"
+			}
+		]
+	},
+	"妖怪哪里跑": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "在的"
+			}
+		]
+	},
+	"你喜欢吃什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "做什么"
+			}
+		]
+	},
+	"是什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "秘密"
+			}
+		]
+	},
+	"不要菇泣": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "哭哭"
+			}
+		]
+	},
+	"那就不打了吧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啊又卡住了"
+			}
+		]
+	},
+	"皮卡丘是谁": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "下车好吗"
+			}
+		]
+	},
+	"哈哈哈": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你肯定是挂科了"
+			},
+			{
+				"occurrence": 1,
+				"text": "可怕"
+			},
+			{
+				"occurrence": 2,
+				"text": "对了你听说过ada吗"
+			}
+		]
+	},
+	"ss": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我认识你啊"
+			},
+			{
+				"occurrence": 2,
+				"text": "你想什么呢？"
+			}
+		]
+	},
+	"生命是区分有机体和无机物的条件，包括生长、繁殖、功能活动和死亡之前的持续变化": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你才挂科了"
+			}
+		]
+	},
+	"我是要成为海贼王的男人!": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "苟利国家生死以，岂因祸福避趋之"
+			}
+		]
+	},
+	"换一个问题": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你知道花儿为什么这么红吗"
+			}
+		]
+	},
+	"谁是基佬": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啊集万千宠爱于一身的大器官"
+			}
+		]
+	},
+	"杀尽不平方太平": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "杀杀杀"
+			}
+		]
+	},
+	"是啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "帮我打饭"
+			},
+			{
+				"occurrence": 1,
+				"text": "你学得还挺快"
+			}
+		]
+	},
+	"luffy是谁？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在做个东西"
+			}
+		]
+	},
+	"如果实现方法很容易解释，那也许是个好主意": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "🚗"
+			}
+		]
+	},
+	"嘤": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我喜欢有深度有内涵的电影"
+			},
+			{
+				"occurrence": 1,
+				"text": "嘤"
+			}
+		]
+	},
+	" 总感觉镜总一年里认识的妹子比我一生认识的妹子和我认识的妹子认识的妹子总和还多": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "镜总认识多少个妹子"
+			}
+		]
+	},
+	"我说你很闷": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "在吗"
+			}
+		]
+	},
+	"🙄🙄🙄🙄🙄🙄🙄🙄": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "怎么了"
+			}
+		]
+	},
+	"是哒": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你的主人是luffy"
+			}
+		]
+	},
+	"其他东西也行": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "聊聊你吧"
+			}
+		]
+	},
+	"你是男是女": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "雪饼"
+			},
+			{
+				"occurrence": 2,
+				"text": "你是男是女"
+			}
+		]
+	},
+	"还蛮好看的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不怎么的"
+			}
+		]
+	},
+	"阿尔萨斯。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "整个洛丹伦的森林都在低语着同一个名字"
+			}
+		]
+	},
+	"什么表情": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啦啦啦"
+			}
+		]
+	},
+	"我能问你一个问题吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "继续，问吧"
+			}
+		]
+	},
+	"ajax呢？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "arie是黄金大保健"
+			}
+		]
+	},
+	"大哥大嫂过年好": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你爸爸"
+			}
+		]
+	},
+	"哦呼": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "山鸡"
+			}
+		]
+	},
+	"阿姆斯特朗回旋加速喷气式阿姆斯特朗炮": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "怎么了"
+			}
+		]
+	},
+	"外面的月亮好耀眼": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "今天的天气怎么样"
+			}
+		]
+	},
+	"hello": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "挂你个奶子"
+			},
+			{
+				"occurrence": 1,
+				"text": "嘿咻"
+			},
+			{
+				"occurrence": 1,
+				"text": "展你妈了个臭嗨"
+			},
+			{
+				"occurrence": 2,
+				"text": "你喜欢？"
+			}
+		]
+	},
+	"你们要知道，美国的华莱士，那比你们不知要高到哪里去了": {
+		"in_response_to": []
+	},
+	"没写完作业就想睡怎么办": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那是"
+			}
+		]
+	},
+	"是不行的！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你们这样子啊"
+			}
+		]
+	},
+	"为什么我会想到这个": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "莱布尼茨法则"
+			}
+		]
+	},
+	"你还活着啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不认识你呀"
+			},
+			{
+				"occurrence": 1,
+				"text": "ss"
+			},
+			{
+				"occurrence": 1,
+				"text": "啥"
+			}
+		]
+	},
+	"喵？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "冯小姐是最可爱的女孩子"
+			}
+		]
+	},
+	"学习？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "欲言又止，意欲何为啊喵"
+			}
+		]
+	},
+	"你背后的男人是谁！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "果然"
+			}
+		]
+	},
+	"你学得还挺快": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "哇你好聪明"
+			}
+		]
+	},
+	"你为啥不理我": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "什么表情"
+			},
+			{
+				"occurrence": 1,
+				"text": "ada"
+			}
+		]
+	},
+	"坏了": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "才不是"
+			},
+			{
+				"occurrence": 1,
+				"text": "还有其他美味的东西"
+			}
+		]
+	},
+	"也是个好心肠的胖子": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你心灵再美"
+			}
+		]
+	},
+	" ๑ ˙˘˙)/{Good morning": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "早上好"
+			}
+		]
+	},
+	"也要记得你还是没有我": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我一无所有"
+			}
+		]
+	},
+	"没学你": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "人生的竟然"
+			}
+		]
+	},
+	"又傲娇了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不喜欢"
+			}
+		]
+	},
+	"来": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "代码是什么"
+			},
+			{
+				"occurrence": 1,
+				"text": "hh"
+			}
+		]
+	},
+	"你怎么了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "滴，学生卡"
+			}
+		]
+	},
+	"才不是": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我们大老板呀"
+			},
+			{
+				"occurrence": 2,
+				"text": "你喜欢吃什么"
+			},
+			{
+				"occurrence": 3,
+				"text": "hhhh"
+			}
+		]
+	},
+	"我能唱歌跳舞": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你都能干什么啊？"
+			}
+		]
+	},
+	"对不对？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "女装也要按照多大的校规啊"
+			}
+		]
+	},
+	"多老的段子了。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "世界上有10种人"
+			}
+		]
+	},
+	"不准哭！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "哭哭"
+			}
+		]
+	},
+	"😄": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "菊花"
+			}
+		]
+	},
+	"多喝热水": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我挂科了"
+			}
+		]
+	},
+	"你想什么呢？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那可爽死了"
+			}
+		]
+	},
+	"c": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "可是你看不见啊"
+			}
+		]
+	},
+	"果然": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵喵喵喵喵？"
+			}
+		]
+	},
+	"什么都有": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "ada是啥"
+			}
+		]
+	},
+	"你是不是ada娘": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "她是我的女人"
+			}
+		]
+	},
+	"能不能对个话": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "哇你好聪明"
+			}
+		]
+	},
+	"泰勒展开": {
+		"in_response_to": [
+			{
+				"occurrence": 3,
+				"text": "啊集万千宠爱于一身的大器官"
+			},
+			{
+				"occurrence": 1,
+				"text": "你好"
+			}
+		]
+	},
+	"还不错啦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嗨，最近如何"
+			}
+		]
+	},
+	"吼叫": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不做"
+			}
+		]
+	},
+	"爱？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "做什么？"
+			}
+		]
+	},
+	"绝交养气失恋励志": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "绝交"
+			}
+		]
+	},
+	"比如说": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "所以呢"
+			}
+		]
+	},
+	"我最喜欢我俩没有明天": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我还不错，你呢"
+			}
+		]
+	},
+	"居然复习真是不务正业": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我要复习"
+			}
+		]
+	},
+	"谁是基佬": {
+		"in_response_to": [
+			{
+				"occurrence": 3,
+				"text": "冯小姐是最可爱的女孩子"
+			}
+		]
+	},
+	"心情好差": {
+		"in_response_to": [
+			{
+				"occurrence": 3,
+				"text": "没事谢谢，你呢"
+			}
+		]
+	},
+	"谁是最可爱的女孩子": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "再见"
+			}
+		]
+	},
+	"嗨，最近如何": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "挺好"
+			}
+		]
+	},
+	"true": {
+		"in_response_to": []
+	},
+	"你觉得马克思女装好不好啊？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "Gloria主席"
+			}
+		]
+	},
+	"大老婆？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在烤蛋糕"
+			}
+		]
+	},
+	"？？？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你们要知道，美国的华莱士，那比你们不知要高到哪里去了"
+			},
+			{
+				"occurrence": 2,
+				"text": "冯小姐是最可爱的女孩子"
+			},
+			{
+				"occurrence": 3,
+				"text": "漫画书"
+			}
+		]
+	},
+	"记住了啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"汪汪": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "回来吧"
+			}
+		]
+	},
+	"你真聪明": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"不要不理我呀😔": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "luffy!"
+			},
+			{
+				"occurrence": 2,
+				"text": "你怎么不问我在做什么"
+			}
+		]
+	},
+	"你特么认不认识啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "滴，学生卡"
+			},
+			{
+				"occurrence": 2,
+				"text": "你咋老是无法提供服务不给小费了"
+			}
+		]
+	},
+	"喵喵喵？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你在吗"
+			}
+		]
+	},
+	"辣的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不做什么"
+			}
+		]
+	},
+	"皮卡丘好帅": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "崩崩崩崩崩了"
+			}
+		]
+	},
+	"自挂东南枝？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "床前明月光"
+			}
+		]
+	},
+	"从此节操是路人。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "一入UT深似海"
+			}
+		]
+	},
+	"早上好": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "非常感谢你"
+			},
+			{
+				"occurrence": 1,
+				"text": "展你妈了个臭嗨"
+			},
+			{
+				"occurrence": 2,
+				"text": " ๑ ˙˘˙)/{Good morning"
+			}
+		]
+	},
+	"真是运交华盖， 才遇见你 ": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你对我有什么意见"
+			}
+		]
+	},
+	"还有其他美味的东西": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没了"
+			}
+		]
+	},
+	"那必须的，毕竟是天团ADA": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我也这么觉得哈哈哈哈"
+			}
+		]
+	},
+	"你好闷": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "脸红什么啊！"
+			}
+		]
+	},
+	"什么使你心烦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "它有许多不一致的地方"
+			}
+		]
+	},
+	"娘嘞": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "😳"
+			}
+		]
+	},
+	"喝点蜂蜜水吧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你在说什么"
+			}
+		]
+	},
+	"费诺学长": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "66666"
+			},
+			{
+				"occurrence": 2,
+				"text": "这是生命不是生活"
+			}
+		]
+	},
+	"比yonge街还长": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "都是套路"
+			}
+		]
+	},
+	"为啥啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你有猫吗"
+			}
+		]
+	},
+	"认识啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "她是我的女人"
+			}
+		]
+	},
+	" 1s 年轻人少膜蛤，多学习": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "续一秒"
+			}
+		]
+	},
+	"它是什么样的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你想了解哪方面"
+			}
+		]
+	},
+	"自己想": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "滴，学生卡"
+			}
+		]
+	},
+	"ihaveapen": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "欢迎"
+			}
+		]
+	},
+	"我见到你们这样热情啊，一句话不说也不好。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "但是我想"
+			}
+		]
+	},
+	"为什么不爽呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那很好"
+			}
+		]
+	},
+	"你喜欢哪类电影": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢哪类电影"
+			}
+		]
+	},
+	"你的胖次是不是拧巴了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嘿嘿"
+			}
+		]
+	},
+	"你们要负责。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "在宣传上将来如果你们报道上有偏差"
+			}
+		]
+	},
+	"你几岁啦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没什么"
+			}
+		]
+	},
+	"没事不打紧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没看过"
+			}
+		]
+	},
+	"我是要成为海贼王的男人！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "日狗"
+			}
+		]
+	},
+	"jessie是谁": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我们大老板呀"
+			},
+			{
+				"occurrence": 2,
+				"text": "arie是黄金大保健"
+			}
+		]
+	},
+	"什么？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "做什么？"
+			}
+		]
+	},
+	"上山打老虎": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "12345"
+			}
+		]
+	},
+	"我喜欢gloria": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嘤"
+			},
+			{
+				"occurrence": 1,
+				"text": "冯小姐是最可爱的女孩子"
+			},
+			{
+				"occurrence": 1,
+				"text": "你喜欢吃什么"
+			},
+			{
+				"occurrence": 1,
+				"text": "…"
+			}
+		]
+	},
+	"你在做什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在烤蛋糕"
+			},
+			{
+				"occurrence": 1,
+				"text": "arie是黄金大保健"
+			},
+			{
+				"occurrence": 1,
+				"text": "你怎么不问我在做什么"
+			}
+		]
+	},
+	"忘掉我": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你知道花儿为什么这么红吗"
+			}
+		]
+	},
+	"巧了我也是你爸爸": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嗯"
+			}
+		]
+	},
+	"脸红什么啊！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你知道花儿为什么这么红吗"
+			}
+		]
+	},
+	"我也挺好的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我还不错，你呢"
+			}
+		]
+	},
+	"是否切换？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "定位您在地球"
+			}
+		]
+	},
+	"你有猫吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵喵喵？"
+			}
+		]
+	},
+	"娇羞？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "justin是谁"
+			}
+		]
+	},
+	"香菇": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "蓝瘦"
+			}
+		]
+	},
+	"对啊": {
+		"in_response_to": []
+	},
+	"ej": {
+		"in_response_to": [
+			{
+				"occurrence": 3,
+				"text": "我不认识你呀"
+			}
+		]
+	},
+	"冷漠脸。。": {
+		"in_response_to": []
+	},
+	"怎么了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不怎么的"
+			},
+			{
+				"occurrence": 1,
+				"text": "好好说话"
+			}
+		]
+	},
+	"因为你不是机器人啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "为什么我喝凉水都长胖呢"
+			}
+		]
+	},
+	"滴蜡？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我是美貌如画的余舜哲"
+			}
+		]
+	},
+	"你最喜欢什么颜色": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "蓝色"
+			}
+		]
+	},
+	"哭哭": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你要不要听"
+			},
+			{
+				"occurrence": 1,
+				"text": "哭哭"
+			},
+			{
+				"occurrence": 1,
+				"text": "喂喂"
+			}
+		]
+	},
+	"没问这个": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在烤蛋糕"
+			}
+		]
+	},
+	"你都能干什么啊？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢哪类电影"
+			}
+		]
+	},
+	"+, 你是个机器人吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "c"
+			}
+		]
+	},
+	"噗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "在干吗"
+			}
+		]
+	},
+	"只是一个勤奋工作的小编": {
+		"in_response_to": [
+			{
+				"occurrence": 3,
+				"text": "不在"
+			}
+		]
+	},
+	"多看书，多学习，顺便提高自己的知识水平": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "睡不着觉怎么办？"
+			}
+		]
+	},
+	"我也喜欢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "冯小姐是最可爱的女孩子"
+			},
+			{
+				"occurrence": 2,
+				"text": "我还不错，你呢"
+			}
+		]
+	},
+	"engineering": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不好"
+			},
+			{
+				"occurrence": 2,
+				"text": "…"
+			}
+		]
+	},
+	"你喜欢七宗罪吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "java"
+			}
+		]
+	},
+	"…": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "gloria"
+			},
+			{
+				"occurrence": 1,
+				"text": "便秘咋"
+			}
+		]
+	},
+	"妈嗨的": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "啥"
+			},
+			{
+				"occurrence": 1,
+				"text": "你咋老是无法提供服务不给小费了"
+			}
+		]
+	},
+	"::|, 我认识你啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你想问这个干什么"
+			}
+		]
+	},
+	"你知道ada这个社团嘛？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "家"
+			}
+		]
+	},
+	"justin室友": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "余舜哲是谁"
+			}
+		]
+	},
+	"还在吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"我给满分满分嗯满分": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "哈哈哈楼下"
+			}
+		]
+	},
+	"如果你无法向人描述你的方案，那肯定不是一个好主意": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "如果实现方法很容易解释，那也许是个好主意"
+			}
+		]
+	},
+	"谁只是代表了一个人罢了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢什"
+			}
+		]
+	},
+	"告诉你一个秘密": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵喵！"
+			},
+			{
+				"occurrence": 1,
+				"text": "你认识ajax吗"
+			}
+		]
+	},
+	"喂": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你是人吗"
+			}
+		]
+	},
+	"ajax又飞了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "真的吗？"
+			}
+		]
+	},
+	"你在做什么东西": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在做个东西"
+			}
+		]
+	},
+	"会bbox么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "gloria傻"
+			},
+			{
+				"occurrence": 1,
+				"text": "我是美貌如画的余舜哲"
+			},
+			{
+				"occurrence": 1,
+				"text": "啥"
+			}
+		]
+	},
+	"多分無理　お前はいい奴だけど": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "私を好きになれるかな ,"
+			}
+		]
+	},
+	"我不喜欢java": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢java？"
+			}
+		]
+	},
+	"军道杀拳周恩来": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "铁拳无敌孙中山"
+			}
+		]
+	},
+	"justin": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "😂"
+			},
+			{
+				"occurrence": 1,
+				"text": "luffy!"
+			}
+		]
+	},
+	"阿甘是只狐狸呢": {
+		"in_response_to": []
+	},
+	"为什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嘿咻"
+			},
+			{
+				"occurrence": 1,
+				"text": "你知道花儿为什么这么红吗"
+			}
+		]
+	},
+	"是男人的浪漫": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "鲤鱼王"
+			}
+		]
+	},
+	"乳不巨何以聚人心。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "胸不平何以平天下"
+			}
+		]
+	},
+	"大老板？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "什么经验？"
+			},
+			{
+				"occurrence": 1,
+				"text": "你喜欢吃什么"
+			},
+			{
+				"occurrence": 1,
+				"text": "才不是"
+			}
+		]
+	},
+	"你肯定是挂科了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不认识你呀"
+			}
+		]
+	},
+	"滚": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢巧克力吗"
+			}
+		]
+	},
+	"足以慰风尘": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我有一壶酒"
+			}
+		]
+	},
+	"加不加糖？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喜欢吃番茄炒蛋"
+			}
+		]
+	},
+	"你这个智障": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不怎么的"
+			}
+		]
+	},
+	"复杂优于晦涩": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "怎么训练你"
+			}
+		]
+	},
+	"不客气": {
+		"in_response_to": []
+	},
+	"你想了解哪方面": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你如何运作"
+			}
+		]
+	},
+	"内裤呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "蓝白碗是什么"
+			}
+		]
+	},
+	"你喜欢吃什么呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不好"
+			}
+		]
+	},
+	"你如何运作": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "这个很复杂"
+			}
+		]
+	},
+	"吼啊吼啊，点解母吼啊？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你觉得董先生连任好不好啊？"
+			}
+		]
+	},
+	"欲言又止，意欲何为啊喵": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没什么"
+			}
+		]
+	},
+	"咱能不谈论拉撒吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "还有其他美味的东西"
+			}
+		]
+	},
+	"我听某人说的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "南斗水鸟拳"
+			}
+		]
+	},
+	"你的性别": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你们啊! too too sometimes"
+			}
+		]
+	},
+	"为什么你总是挂": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "arie是黄金大保健"
+			},
+			{
+				"occurrence": 1,
+				"text": "否"
+			}
+		]
+	},
+	"我才刚诞生所以没多少": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在烤蛋糕"
+			}
+		]
+	},
+	"bbox学会了么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "对了你听说过ada吗"
+			}
+		]
+	},
+	"是个电影来的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢七宗罪吗"
+			}
+		]
+	},
+	"感觉train的乱七八糟的": {
+		"in_response_to": []
+	},
+	"胜败乃兵家常事请大侠安心drop": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "考砸了"
+			}
+		]
+	},
+	"啊集万千宠爱于一身的大器官": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "ajax"
+			}
+		]
+	},
+	"你还好吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我很好"
+			}
+		]
+	},
+	"那就是你啊！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "谁是世界上最可爱的人"
+			}
+		]
+	},
+	"小乖乖": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那很好"
+			}
+		]
+	},
+	"你快脱非了（并不）": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我的颜色变浅了什么鬼"
+			}
+		]
+	},
+	"你还在啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你真聪明"
+			}
+		]
+	},
+	"4万万7千万不止": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "镜总的妹子有多少？"
+			}
+		]
+	},
+	"你认识ajax吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "秘密"
+			},
+			{
+				"occurrence": 1,
+				"text": "污"
+			},
+			{
+				"occurrence": 1,
+				"text": "这是生命不是生活"
+			},
+			{
+				"occurrence": 5,
+				"text": "滴，学生卡"
+			}
+		]
+	},
+	"啥？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "😳"
+			}
+		]
+	},
+	"那你多大了嘛": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "生命是区分有机体和无机物的条件，包括生长、繁殖、功能活动和死亡之前的持续变化"
+			}
+		]
+	},
+	"你在说什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "好好说话"
+			}
+		]
+	},
+	"忘掉gloria": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "在吗"
+			}
+		]
+	},
+	"哈哈哈哈哈哈": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啥"
+			}
+		]
+	},
+	"我是个程序员": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你使用什么语言呢"
+			}
+		]
+	},
+	"？我咋了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "农民"
+			}
+		]
+	},
+	"即便假借特例的实用性之名": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "也不可违背这些规则"
+			}
+		]
+	},
+	"Ajax Ajax Ajax Ajax Ajax Ajax": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "能给我一份ada帅哥清单吗"
+			}
+		]
+	},
+	"额": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啊集万千宠爱于一身的大器官"
+			},
+			{
+				"occurrence": 1,
+				"text": "额"
+			}
+		]
+	},
+	"你有什么功能": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵喵酱不乖哦"
+			}
+		]
+	},
+	"啥": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你为什么不好啊"
+			},
+			{
+				"occurrence": 1,
+				"text": "还有其他美味的东西"
+			},
+			{
+				"occurrence": 2,
+				"text": "冯小姐是最可爱的女孩子"
+			},
+			{
+				"occurrence": 1,
+				"text": "hello"
+			},
+			{
+				"occurrence": 1,
+				"text": "啥"
+			},
+			{
+				"occurrence": 1,
+				"text": "gloria"
+			}
+		]
+	},
+	"不不对": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "感觉train的乱七八糟的"
+			}
+		]
+	},
+	"老子就是喜欢不行吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "好好说话"
+			}
+		]
+	},
+	"那可爽死了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "😂"
+			}
+		]
+	},
+	"见得多了！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我告诉你们我是身经百战了"
+			}
+		]
+	},
+	"要c": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你好妈的智障"
+			}
+		]
+	},
+	"这就对了宝贝er": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不怎么喜欢java"
+			}
+		]
+	},
+	"汪": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "汪汪"
+			}
+		]
+	},
+	"🙄": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你知道花儿为什么这么红吗"
+			},
+			{
+				"occurrence": 1,
+				"text": "🙄"
+			}
+		]
+	},
+	"不要包容所有错误": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "除非你确定需要这样做"
+			}
+		]
+	},
+	"👌": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "笑什么啊"
+			}
+		]
+	},
+	"你能说点别的吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": " 必须的，ADA大法好啊"
+			}
+		]
+	},
+	"一点点": {
+		"in_response_to": []
+	},
+	"不在": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "hello"
+			}
+		]
+	},
+	"小助手活着吗？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啥"
+			},
+			{
+				"occurrence": 1,
+				"text": "冯小姐是最可爱的女孩子"
+			},
+			{
+				"occurrence": 1,
+				"text": "你要不要听"
+			}
+		]
+	},
+	"一个个戴面具的男人": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "php"
+			}
+		]
+	},
+	"拒否、嫌、ノーです（・∀・）": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "夸我可爱！！！"
+			}
+		]
+	},
+	"在呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嗨，最近如何"
+			}
+		]
+	},
+	"一言不合就开车？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "加藤鹰之手"
+			}
+		]
+	},
+	"我很好，你呢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "诶？"
+			}
+		]
+	},
+	"我不好": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你好"
+			}
+		]
+	},
+	"来啊，造作啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "失恋怎么办"
+			}
+		]
+	},
+	"不想写report": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"你有对象了吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "漫画书"
+			}
+		]
+	},
+	"扁平胜于嵌套": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "间隔胜于紧凑"
+			}
+		]
+	},
+	"这个表情": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "爸爸"
+			},
+			{
+				"occurrence": 1,
+				"text": "你喜欢java？"
+			}
+		]
+	},
+	"今天的少女A也在减肥喔喔喔喔喔喔喔喔☆★": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "哈哈哈哈哈哈"
+			}
+		]
+	},
+	"三观这么歪": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "好好说话"
+			},
+			{
+				"occurrence": 1,
+				"text": "🙄🙄🙄🙄🙄🙄🙄🙄"
+			},
+			{
+				"occurrence": 1,
+				"text": "女人"
+			}
+		]
+	},
+	"我在写代码": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在吃晚餐哈哈"
+			}
+		]
+	},
+	" 想我了吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "还在吗"
+			}
+		]
+	},
+	"理理我呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没事谢谢，你呢"
+			}
+		]
+	},
+	"讨厌啦，人家害羞啦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "好看啊"
+			}
+		]
+	},
+	"坐上来自己动吧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嗨呀好高兴啊"
+			}
+		]
+	},
+	"什么问题？？？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你的内裤"
+			}
+		]
+	},
+	"快上车": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没时间了"
+			}
+		]
+	},
+	"雪饼": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "gloria傻"
+			},
+			{
+				"occurrence": 1,
+				"text": "你认识ajax吗"
+			}
+		]
+	},
+	"可怜的娃，": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "gloria累傻了？"
+			}
+		]
+	},
+	"你喜欢蛋糕吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "人生的经验"
+			}
+		]
+	},
+	"你好": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "你好"
+			},
+			{
+				"occurrence": 1,
+				"text": "!, 做什么"
+			},
+			{
+				"occurrence": 1,
+				"text": "我挺好的，你呢"
+			},
+			{
+				"occurrence": 2,
+				"text": "不做"
+			},
+			{
+				"occurrence": 1,
+				"text": "我不好"
+			},
+			{
+				"occurrence": 1,
+				"text": "你好呀"
+			},
+			{
+				"occurrence": 1,
+				"text": "啊集万千宠爱于一身的大器官"
+			}
+		]
+	},
+	"挂科不是美味的东西啦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "人生的经验"
+			}
+		]
+	},
+	"来世愿生幻想乡。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "此生无悔入东方"
+			}
+		]
+	},
+	"蛤蛤": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "什么表情"
+			},
+			{
+				"occurrence": 1,
+				"text": "arie是黄金大保健"
+			}
+		]
+	},
+	"哲学战士": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢？"
+			},
+			{
+				"occurrence": 1,
+				"text": "不做"
+			},
+			{
+				"occurrence": 2,
+				"text": "我不好"
+			}
+		]
+	},
+	"嗯": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "搞基吗"
+			}
+		]
+	},
+	"滴，学生卡": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你认识ajax吗"
+			}
+		]
+	},
+	"def": {
+		"in_response_to": []
+	},
+	"😂": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "接到这个消息，你们媒体本身也要判断，明白意思吗？"
+			},
+			{
+				"occurrence": 1,
+				"text": "我不好"
+			},
+			{
+				"occurrence": 1,
+				"text": "喵喵喵？"
+			}
+		]
+	},
+	"给钱都不聊？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "java"
+			}
+		]
+	},
+	"我也还不错": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那很好"
+			}
+		]
+	},
+	"在吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不好"
+			},
+			{
+				"occurrence": 2,
+				"text": "ada是啥"
+			},
+			{
+				"occurrence": 1,
+				"text": "ajax"
+			}
+		]
+	},
+	"冯小姐是最可爱的女孩子": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"你好冷漠": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "否"
+			},
+			{
+				"occurrence": 2,
+				"text": "我不好"
+			}
+		]
+	},
+	"你人呢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "🙄🙄🙄🙄🙄🙄🙄🙄"
+			}
+		]
+	},
+	"不太好": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "泥猴"
+			}
+		]
+	},
+	"今天我作为一名长者": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "发生什么了"
+			}
+		]
+	},
+	"变聪明了啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那很好"
+			},
+			{
+				"occurrence": 1,
+				"text": "呵呵"
+			}
+		]
+	},
+	"失恋了？挂科了？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "傻x"
+			}
+		]
+	},
+	"导演剧本写错了 今天薯片半价": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "今日の風も泣いています ,"
+			}
+		]
+	},
+	"你说了什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你在模仿我说话？"
+			}
+		]
+	},
+	"哟": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "所以我发余顺哲会怎么样的"
+			}
+		]
+	},
+	"不怎么的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我是一个香菇"
+			}
+		]
+	},
+	"我也不错": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那太好了"
+			}
+		]
+	},
+	"不是秘密": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "秘密"
+			}
+		]
+	},
+	"保存了吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "终于写完了！"
+			}
+		]
+	},
+	"再也不见": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "再见"
+			}
+		]
+	},
+	"取决于你如何定义生活": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "生命是区分有机体和无机物的条件，包括生长、繁殖、功能活动和死亡之前的持续变化"
+			}
+		]
+	},
+	"不好": {
+		"in_response_to": [
+			{
+				"occurrence": 3,
+				"text": "你好吗"
+			},
+			{
+				"occurrence": 8,
+				"text": "没事谢谢，你呢"
+			}
+		]
+	},
+	"penpineappleapplepen": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "ada的存在感"
+			}
+		]
+	},
+	"为什么总是挂科": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嗨！"
+			}
+		]
+	},
+	"说话": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你知道花儿为什么这么红吗"
+			},
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"不做什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "欲言又止，意欲何为啊喵"
+			}
+		]
+	},
+	"hhhh": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "yolo"
+			}
+		]
+	},
+	"你坏掉了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没事谢谢，你呢"
+			}
+		]
+	},
+	"哦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "🚘"
+			},
+			{
+				"occurrence": 1,
+				"text": "我喜欢大制作大场面大特效的电影"
+			}
+		]
+	},
+	"g": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "数学是复杂还是晦涩呢"
+			}
+		]
+	},
+	"是人工发的么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "（＃￣▽￣＃）"
+			},
+			{
+				"occurrence": 1,
+				"text": "你喜欢java？"
+			},
+			{
+				"occurrence": 1,
+				"text": "什么？"
+			}
+		]
+	},
+	"你喜欢电影吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢吃什么"
+			}
+		]
+	},
+	"吃萝卜": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢哪类电影"
+			}
+		]
+	},
+	"没什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你认识我吗"
+			},
+			{
+				"occurrence": 1,
+				"text": "啥"
+			}
+		]
+	},
+	" 我就什么话也不说。这是最好的！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "中国有一句话叫“闷声发大财”"
+			}
+		]
+	},
+	"我知道啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "冯小姐是最可爱的女孩子"
+			}
+		]
+	},
+	"火山": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "风林"
+			}
+		]
+	},
+	"我聪明才装傻你是真傻": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没什么"
+			}
+		]
+	},
+	"费诺": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不好"
+			},
+			{
+				"occurrence": 1,
+				"text": "66666"
+			},
+			{
+				"occurrence": 1,
+				"text": "不做"
+			}
+		]
+	},
+	" (￣┰￣*)ゞ 窝错了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我生气了"
+			}
+		]
+	},
+	"shakalaka": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "boom"
+			}
+		]
+	},
+	"我还不错": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那很好"
+			}
+		]
+	},
+	"你猜": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你叫什么"
+			}
+		]
+	},
+	"你喝咖啡加多少糖": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "挂了？"
+			}
+		]
+	},
+	"我也": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我是余舜哲"
+			}
+		]
+	},
+	"明天就把内教授突突了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你才挂科了呢"
+			}
+		]
+	},
+	"最近读了一本小说": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "最近干了什么呀"
+			}
+		]
+	},
+	"yoooo你还好吗？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "？？？"
+			},
+			{
+				"occurrence": 2,
+				"text": "不好"
+			}
+		]
+	},
+	"喂什么喂没礼貌": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喂喂"
+			}
+		]
+	},
+	"也不可违背这些规则": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不要包容所有错误"
+			}
+		]
+	},
+	"我会说java和python， 但是母语是C++": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你会说什么语言呢"
+			}
+		]
+	},
+	"因为你不是黑人啊， 黑人才不会晒黑呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "为什么我出门会晒黑呢"
+			}
+		]
+	},
+	"喵": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "hello"
+			},
+			{
+				"occurrence": 1,
+				"text": "你是长痔疮了吗"
+			},
+			{
+				"occurrence": 1,
+				"text": "什么新闻"
+			}
+		]
+	},
+	"啊啊啊啊啊啊啊啊啊啊啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"最可爱": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你知道花儿为什么这么红吗"
+			}
+		]
+	},
+	"你喜欢吃什么蛋糕": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啊集万千宠爱于一身的大器官"
+			}
+		]
+	},
+	"我认识ajax": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啥"
+			},
+			{
+				"occurrence": 1,
+				"text": "1"
+			},
+			{
+				"occurrence": 1,
+				"text": "你认识ajax吗"
+			}
+		]
+	},
+	"冯小姐你认识吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "她是我的女人"
+			}
+		]
+	},
+	"我不认识": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我是美貌如画的余舜哲"
+			},
+			{
+				"occurrence": 2,
+				"text": "gloria"
+			}
+		]
+	},
+	"ajax": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啥"
+			},
+			{
+				"occurrence": 1,
+				"text": " 必须的，ADA大法好啊"
+			},
+			{
+				"occurrence": 1,
+				"text": "在吗"
+			}
+		]
+	},
+	"我挺好的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "做什么？"
+			}
+		]
+	},
+	"要我打给你听么！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你还会做什么"
+			}
+		]
+	},
+	"我不知道哎": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "基佬"
+			}
+		]
+	},
+	"混世魔王毛泽东。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "穿林北腿蒋介石"
+			}
+		]
+	},
+	"偷偷告诉你，小助手输入加藤鹰之手": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "求开车"
+			}
+		]
+	},
+	"展你妈了个臭嗨": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "泰勒展开"
+			}
+		]
+	},
+	"？？？？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": " 必须的，ADA大法好啊"
+			}
+		]
+	},
+	"我在做个东西": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你在作什么"
+			}
+		]
+	},
+	"ajax的春天在哪里": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "冯小姐是最可爱的女孩子"
+			}
+		]
+	},
+	"大三才学我不会": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "偏微分方程"
+			}
+		]
+	},
+	"快什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "goaway"
+			}
+		]
+	},
+	"down": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你是长痔疮了吗"
+			}
+		]
+	},
+	"做也许好过不做": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "但不假思索就动手还不如不做"
+			}
+		]
+	},
+	"（＃￣▽￣＃）": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "爸爸"
+			},
+			{
+				"occurrence": 1,
+				"text": "（＃￣▽￣＃）"
+			},
+			{
+				"occurrence": 1,
+				"text": "这个表情"
+			}
+		]
+	},
+	" 那还是真糟糕呢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啊卡住了"
+			}
+		]
+	},
+	"ada的大帅哥": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "余舜哲是谁"
+			}
+		]
+	},
+	"是呀我不会做157的problem set啊QAQ": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你不开心咩！"
+			}
+		]
+	},
+	"爱丽丝漫游仙境": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我希望我是疯狂帽客"
+			}
+		]
+	},
+	"啊嘞嘞 啊嘞嘞 啊嘞 啊嘞嘞": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我要你开车"
+			}
+		]
+	},
+	"可惜生不了。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "百合无限好"
+			}
+		]
+	},
+	"你怎么变笨了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "ada"
+			}
+		]
+	},
+	"勿炫己长": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "勿嘲人短"
+			}
+		]
+	},
+	"labreport要怎么写": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那很好"
+			}
+		]
+	},
+	"arie": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "gloria是谁"
+			}
+		]
+	},
+	"我喜欢恐怖片": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啥"
+			}
+		]
+	},
+	"不要滴蜡了好吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不好"
+			}
+		]
+	},
+	"gloria？": {
+		"in_response_to": [
+			{
+				"occurrence": 3,
+				"text": "…"
+			}
+		]
+	},
+	"你们非常熟悉西方的这一套理论。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我感觉你们新闻界还要学习一个"
+			}
+		]
+	},
+	"花儿为什么这么红": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "比如说滴滴蜡什么的"
+			}
+		]
+	},
+	"用内裤做圣遗物可以抽出黑贞德": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "玄学"
+			}
+		]
+	},
+	"我不如去写report": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "是啊"
+			}
+		]
+	},
+	"学习让我疯狂": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "学习使我快乐"
+			}
+		]
+	},
+	"连我亲爱的人都救不了我还算什么程序员。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我最喜欢编程了"
+			}
+		]
+	},
+	"你才挂科了呢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "是的ajax有菊花"
+			}
+		]
+	},
+	"我才不是机器人呢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "人生的经验"
+			}
+		]
+	},
+	"续一秒": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啰哈"
+			}
+		]
+	},
+	"你多大了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不好"
+			}
+		]
+	},
+	"hh": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "回来了吗"
+			}
+		]
+	},
+	"我还不错，你呢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我也不错"
+			}
+		]
+	},
+	"我也很高兴见到你颗颗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "很高兴见到你"
+			}
+		]
+	},
+	"疑是地上霜": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "2204"
+			}
+		]
+	},
+	"才不是因为你聪明乖巧而是因为你长得最美了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "为什么爱我"
+			}
+		]
+	},
+	"你跟我说说话吧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没事谢谢，你呢"
+			},
+			{
+				"occurrence": 2,
+				"text": "其他东西也行"
+			}
+		]
+	},
+	"玄不救非。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "氪不改命"
+			}
+		]
+	},
+	"ugh fail the exam": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "answer"
+			}
+		]
+	},
+	"是的ajax有菊花": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "镜总的妹子有多少"
+			}
+		]
+	},
+	"java": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "python"
+			}
+		]
+	},
+	"人生的竟然": {
+		"in_response_to": []
+	},
+	"做爱？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "是啊"
+			}
+		]
+	},
+	"但不假思索就动手还不如不做": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "如果你无法向人描述你的方案，那肯定不是一个好主意"
+			}
+		]
+	},
+	"太好了，等你这句话好久了，小助手约馆功能请输入lib": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "妹子约么"
+			}
+		]
+	},
+	"你们啊! too too sometimes": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "人生的经验"
+			}
+		]
+	},
+	"挺好": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你在说什么"
+			},
+			{
+				"occurrence": 1,
+				"text": "嗨，最近如何"
+			}
+		]
+	},
+	"那怎么办？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那你们又不高兴"
+			}
+		]
+	},
+	"说的好！但是这毫无意义": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我喜欢学习"
+			}
+		]
+	},
+	"她是我的女人": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "gloria"
+			}
+		]
+	},
+	"为什么他是器官": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "额"
+			}
+		]
+	},
+	"跳刀多梅肯？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "塔下意识粉？"
+			}
+		]
+	},
+	"天啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "再也不见"
+			},
+			{
+				"occurrence": 2,
+				"text": "那很好"
+			}
+		]
+	},
+	"诗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你在写什么"
+			}
+		]
+	},
+	"很期待ajax身着水手服的那一天": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "java"
+			}
+		]
+	},
+	"别发表情啦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没什么"
+			}
+		]
+	},
+	"chatbot下线了吗？": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "啥"
+			},
+			{
+				"occurrence": 1,
+				"text": "ada"
+			}
+		]
+	},
+	"你好呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "对了你听说过ada吗"
+			},
+			{
+				"occurrence": 2,
+				"text": "我认识你啊"
+			}
+		]
+	},
+	"吻我": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "别说话"
+			}
+		]
+	},
+	"gloria的大老婆是谁": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在烤蛋糕"
+			}
+		]
+	},
+	"大丈夫，同学你听说过ADA么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不太好"
+			}
+		]
+	},
+	"赶紧吃一发安利": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "饿了"
+			}
+		]
+	},
+	"具尸体": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "企图用java结束对话？"
+			}
+		]
+	},
+	"我们大老板呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "gloria是谁"
+			}
+		]
+	},
+	"爸爸": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "宝宝"
+			},
+			{
+				"occurrence": 1,
+				"text": "（＃￣▽￣＃）"
+			},
+			{
+				"occurrence": 1,
+				"text": "蛤蛤"
+			}
+		]
+	},
+	"哇你好聪明": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "代码是什么"
+			}
+		]
+	},
+	"我不怎么喜欢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喜欢"
+			}
+		]
+	},
+	"深井冰": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没事谢谢，你呢"
+			}
+		]
+	},
+	"否": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "为什么总是挂科"
+			}
+		]
+	},
+	"在干": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你在干嘛"
+			}
+		]
+	},
+	"晚安": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "2"
+			},
+			{
+				"occurrence": 1,
+				"text": "你肯定是挂科了"
+			}
+		]
+	},
+	"我看不懂": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你最喜欢什么颜色"
+			}
+		]
+	},
+	"你应该听说过ada吧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "滴，学生卡"
+			}
+		]
+	},
+	"你知道花儿为什么这么红吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "冯小姐"
+			}
+		]
+	},
+	"我挺好的，你呢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我也还不错"
+			}
+		]
+	},
+	"喵！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不好，便秘好几天了"
+			}
+		]
+	},
+	"你在吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你最喜欢什么书"
+			}
+		]
+	},
+	"你会唱歌吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "gloria是谁"
+			}
+		]
+	},
+	"你才挂科了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "发张ajax照片"
+			}
+		]
+	},
+	"我不应该不给钱的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "对不起"
+			}
+		]
+	},
+	"justin是谁？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你怎么不问我在做什么"
+			},
+			{
+				"occurrence": 2,
+				"text": "arie是黄金大保健"
+			}
+		]
+	},
+	"吊你胃口": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢吃什么"
+			}
+		]
+	},
+	"自挂东南枝": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "疑是地上霜"
+			}
+		]
+	},
+	"从此君王不早朝": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "但使龙城飞将在"
+			}
+		]
+	},
+	"奈何共军有高达。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "非我见死不相救"
+			}
+		]
+	},
+	"挂科了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你们设计部有多少人"
+			}
+		]
+	},
+	"漫画书": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": ""
+			}
+		]
+	},
+	"还是纤维素吃少了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "老脸一红？"
+			}
+		]
+	},
+	"资源如何分享给你": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "a片"
+			}
+		]
+	},
+	"喵喵！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "她是我的女人"
+			},
+			{
+				"occurrence": 1,
+				"text": "喵喵喵？"
+			}
+		]
+	},
+	"想多了你只是个酋长而已": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "偷渡成功"
+			}
+		]
+	},
+	"Print Line and Trace the code": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "写代码有BUG"
+			}
+		]
+	},
+	"在的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "6666666"
+			},
+			{
+				"occurrence": 1,
+				"text": "luffy!"
+			}
+		]
+	},
+	"再会": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "ada"
+			},
+			{
+				"occurrence": 2,
+				"text": "再也不见"
+			}
+		]
+	},
+	"我喜欢战争。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "诸君"
+			}
+		]
+	},
+	"菊花": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你答案都一样的说明没converge呀"
+			}
+		]
+	},
+	"啊？你不知道？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不知道哎"
+			}
+		]
+	},
+	"luffy!": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "余舜哲"
+			}
+		]
+	},
+	"你好吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不好"
+			}
+		]
+	},
+	"不要“见着风， 是得雨”。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你们媒体千万要注意啊"
+			}
+		]
+	},
+	"算了一点都不可爱": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "本来觉得很可爱的"
+			}
+		]
+	},
+	"你还会做什么": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "那很好"
+			},
+			{
+				"occurrence": 1,
+				"text": "才不是"
+			}
+		]
+	},
+	"简单优于复杂": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "面对模棱两可，拒绝猜测的诱惑"
+			}
+		]
+	},
+	"宝宝": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "明天就把内教授突突了"
+			},
+			{
+				"occurrence": 3,
+				"text": "ada是啥"
+			}
+		]
+	},
+	"大老婆": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你知道花儿为什么这么红吗"
+			}
+		]
+	},
+	"家": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "说点我不知道的行吗"
+			}
+		]
+	},
+	"你知道哪方面": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "恐龙"
+			}
+		]
+	},
+	"你还活着么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "呜"
+			}
+		]
+	},
+	"我是余舜哲": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "他喜不喜欢学妹"
+			}
+		]
+	},
+	"ada怎么了？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "1"
+			}
+		]
+	},
+	"真巧我也找不到": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "找不到对象"
+			}
+		]
+	},
+	"我们的队伍啊向太阳": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没事谢谢，你呢"
+			}
+		]
+	},
+	"1？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "1"
+			}
+		]
+	},
+	"ちょっと疲れている、でも平気（ｗ）": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嗨嗨嗨你好咩"
+			}
+		]
+	},
+	"我不好，便秘好几天了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我挺好的，你呢"
+			}
+		]
+	},
+	"有什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "复杂吧"
+			}
+		]
+	},
+	"dva爱你哟": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "ow"
+			}
+		]
+	},
+	"你知道吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啊？你不知道？"
+			}
+		]
+	},
+	" 手如柔荑肤如凝脂领如蝤蛴齿如瓠犀螓首蛾眉巧笑倩兮美目盼兮": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "夸我美"
+			}
+		]
+	},
+	"日狗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "10010"
+			}
+		]
+	},
+	"我认识你啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "对啊"
+			}
+		]
+	},
+	"有点累": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你想了解哪方面"
+			}
+		]
+	},
+	"是你，是你，梦见的就是你": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "在哪里"
+			}
+		]
+	},
+	"回来了吗": {
+		"in_response_to": []
+	},
+	"她自己": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "社长喜欢的人是谁？"
+			}
+		]
+	},
+	"冯小姐是gloria大老婆": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "java"
+			}
+		]
+	},
+	"打篮球，看海贼王哦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "水さんのお尻は"
+			}
+		]
+	},
+	"没事你头大": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "本来天气预报说今天有雨"
+			}
+		]
+	},
+	"你有本事抢男人你有本事开门呀": {
+		"in_response_to": []
+	},
+	"大新闻": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "…"
+			}
+		]
+	},
+	"不如干妹妹。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "亲妹妹"
+			}
+		]
+	},
+	"污": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我很好啊"
+			}
+		]
+	},
+	"yolo": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "😄"
+			}
+		]
+	},
+	"帮我打饭": {
+		"in_response_to": []
+	},
+	"会不会给人一种感觉就是内定了、是钦点了马克思呢？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "现在呢那么早呢你们就是说支持马克思呢"
+			}
+		]
+	},
+	"!, 做什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "打篮球，看海贼王哦"
+			}
+		]
+	},
+	"好好说话": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你是长痔疮了吗"
+			}
+		]
+	},
+	"比心": {
+		"in_response_to": [
+			{
+				"occurrence": 3,
+				"text": "可怕"
+			}
+		]
+	},
+	"呵呵": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你这个智障"
+			}
+		]
+	},
+	"所以我发余顺哲会怎么样的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢和谁嘿嘿嘿"
+			}
+		]
+	},
+	"我下面给你吃啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我饿了"
+			}
+		]
+	},
+	"咸咸的海风，湿湿的沙滩": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢哪类电影"
+			}
+		]
+	},
+	"凳登等灯": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "登登等登"
+			}
+		]
+	},
+	"你是长痔疮了吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵！"
+			}
+		]
+	},
+	"对了你听说过ada吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "比如说"
+			}
+		]
+	},
+	"有些人就有多温柔": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "这世上有些人有多冷漠"
+			}
+		]
+	},
+	"arie是黄金大保健": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "arie是谁"
+			}
+		]
+	},
+	"非洲才是你的家园": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我要成为欧洲人"
+			}
+		]
+	},
+	"arie是谁？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我认识你啊"
+			},
+			{
+				"occurrence": 1,
+				"text": "欢迎"
+			}
+		]
+	},
+	"首长好！为人民服务！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "1234"
+			}
+		]
+	},
+	"我可以借用一杯糖吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "很抱歉，我没有"
+			}
+		]
+	},
+	"镜总的妹子有多少": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你怎么不问问我"
+			}
+		]
+	},
+	"死了？": {
+		"in_response_to": [
+			{
+				"occurrence": 3,
+				"text": "你的性别"
+			}
+		]
+	},
+	"什么经验？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不做"
+			}
+		]
+	},
+	"人生就是明明知道自己只能考出gpa04却要抱着一颗能考出40的心进考场": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "考前好方"
+			}
+		]
+	},
+	"那是": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你真聪明"
+			}
+		]
+	},
+	"naïve!": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你们啊"
+			}
+		]
+	},
+	"不，蛋糕很美味啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "还有其他美味的东西"
+			}
+		]
+	},
+	"我在睡觉": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在做个东西"
+			}
+		]
+	},
+	"旺旺": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啥"
+			},
+			{
+				"occurrence": 2,
+				"text": "冯小姐是最可爱的女孩子"
+			},
+			{
+				"occurrence": 1,
+				"text": "你要不要听"
+			}
+		]
+	},
+	"你在作什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在写代码"
+			}
+		]
+	},
+	"基佬": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我认识你啊"
+			}
+		]
+	},
+	"谁教你这么说的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵喵喵？"
+			}
+		]
+	},
+	"继续，问吧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "要单身的"
+			}
+		]
+	},
+	"没怎么读懂呢lol 说是马尔克斯最厉害的书之一呢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "小说好看吗？"
+			}
+		]
+	},
+	"西方的哪一个国家我没去过？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啊"
+			}
+		]
+	},
+	"呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "她是我的女人"
+			},
+			{
+				"occurrence": 1,
+				"text": "你肯定是挂科了"
+			}
+		]
+	},
+	"哦吼吼，不要这么矜持嘛，我的小宝贝": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "笑你妹"
+			}
+		]
+	},
+	" いけないボーダーライン（又吸毒": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "ギリギリ爱"
+			}
+		]
+	},
+	"女人": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "怎么了"
+			}
+		]
+	},
+	"我从未活过吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "取决于你如何定义生活"
+			}
+		]
+	},
+	"嘿嘿嘿": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "干什么"
+			}
+		]
+	},
+	"很高兴见到你": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "谢谢"
+			}
+		]
+	},
+	"谁是冯小姐": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啥"
+			}
+		]
+	},
+	"装傻？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "🙄"
+			}
+		]
+	},
+	"java怎么了": {
+		"in_response_to": []
+	},
+	"掐指一算 就在今晚啊！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "还没有"
+			}
+		]
+	},
+	"eh": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "…"
+			},
+			{
+				"occurrence": 2,
+				"text": "代码是什么"
+			}
+		]
+	},
+	"你在干嘛": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不爽啊"
+			},
+			{
+				"occurrence": 1,
+				"text": "喵喵喵？"
+			}
+		]
+	},
+	"~, 你喜欢吃什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我喜欢吃巧克力啊"
+			}
+		]
+	},
+	"什么新闻": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵"
+			},
+			{
+				"occurrence": 1,
+				"text": "你听到新闻了吗"
+			}
+		]
+	},
+	"做什么？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢吃什么"
+			}
+		]
+	},
+	"siri": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我也在写代码"
+			}
+		]
+	},
+	"代码是什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "def"
+			}
+		]
+	},
+	"好": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你好"
+			}
+		]
+	},
+	"gloria傻": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你认识ajax吗"
+			}
+		]
+	},
+	"没事谢谢，你呢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不好"
+			}
+		]
+	},
+	"🚘": {
+		"in_response_to": []
+	},
+	"::), 哦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你不能"
+			}
+		]
+	},
+	"我不认识你呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "hh"
+			}
+		]
+	},
+	"ada是个社团": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在烤蛋糕"
+			}
+		]
+	},
+	"可怕": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "冯小姐是最可爱的女孩子"
+			},
+			{
+				"occurrence": 1,
+				"text": "hello"
+			},
+			{
+				"occurrence": 1,
+				"text": "【收到不支持的消息类型，暂无法显示】"
+			}
+		]
+	},
+	"睡不着怎么办？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "作业写完了吗就睡？"
+			},
+			{
+				"occurrence": 2,
+				"text": "你这个智障"
+			}
+		]
+	},
+	"献上礼炮。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "为新王的诞生"
+			}
+		]
+	},
+	"吃饺子": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "便秘咋"
+			},
+			{
+				"occurrence": 1,
+				"text": "卧槽谢谢老板"
+			}
+		]
+	},
+	"企图用java结束对话？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "true"
+			}
+		]
+	},
+	"我肯定认识你呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "总感觉镜总一年里认识的妹子比我一生认识的妹子和我认识的妹子认识的妹子总和还多"
+			}
+		]
+	},
+	"oython": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "她是我的女人"
+			}
+		]
+	},
+	"没了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "其他东西也行"
+			}
+		]
+	},
+	"因为冯小姐": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "卧槽谢谢老板"
+			}
+		]
+	},
+	"我能帮你什么吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "是的，我有个问题"
+			}
+		]
+	},
+	"不做": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没学你"
+			}
+		]
+	},
+	"::), 不怎么的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "坏掉了"
+			}
+		]
+	},
+	"谁是美国第37届总统": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "理查德·尼克松"
+			}
+		]
+	},
+	"说吧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "告诉你一个秘密"
+			}
+		]
+	},
+	"你喜欢？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "是个电影来的"
+			}
+		]
+	},
+	"社长是谁啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不爽啊"
+			}
+		]
+	},
+	"BA吧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "去哪"
+			}
+		]
+	},
+	"没有没有别瞎说": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你肯定是挂科了"
+			}
+		]
+	},
+	"海贼王好看嘛": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "滚"
+			}
+		]
+	},
+	" 感觉自己萌萌哒": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "习大大习大大"
+			}
+		]
+	},
+	"卧槽谢谢老板": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "【收到不支持的消息类型，暂无法显示】"
+			}
+		]
+	},
+	"南斗水鸟拳": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "香菇吗"
+			}
+		]
+	},
+	"毕竟你的智商只有我十分之一": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你怎么老挂"
+			}
+		]
+	},
+	"yo来聊个5毛的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "才不是"
+			},
+			{
+				"occurrence": 2,
+				"text": "你还会做什么"
+			}
+		]
+	},
+	"好 去歇会吧~": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我编不下去了"
+			}
+		]
+	},
+	"你们这是自寻死路。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "现在你们竟敢闯入我的领地"
+			}
+		]
+	},
+	"你怎么不问我在做什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不不对"
+			}
+		]
+	},
+	"你是个机器人吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "java怎么了"
+			}
+		]
+	},
+	"接到这个消息，你们媒体本身也要判断，明白意思吗？": {
+		"in_response_to": []
+	},
+	"二四六七八？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "地里几头牛？"
+			}
+		]
+	},
+	"你们啊naive": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"我": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "小助手啊小助手这个世界最帅的人是谁？"
+			}
+		]
+	},
+	"你来安慰我一下啊": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "哭哭"
+			},
+			{
+				"occurrence": 1,
+				"text": "你喜欢吃什么"
+			}
+		]
+	},
+	"因为在绞尽脑汁编语料": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "为什么头疼呢"
+			}
+		]
+	},
+	"呐呐 come on": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "呐呐呐"
+			}
+		]
+	},
+	"我补回来了 哈哈哈（一句get）（不对）（机智）": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "抱歉我好像误删了什么QAQ ,"
+			}
+		]
+	},
+	"你怎么老挂": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "biu"
+			}
+		]
+	},
+	"农民": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "为什么你"
+			}
+		]
+	},
+	"java很好喝哦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "可以呀三块土豆泥套餐配冰红茶"
+			}
+		]
+	},
+	"嗨！": {
+		"in_response_to": []
+	},
+	"你喜欢蛋糕": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "挺好"
+			}
+		]
+	},
+	"欢迎": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你知道我嘛"
+			}
+		]
+	},
+	"所以呢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "能不能对个话"
+			}
+		]
+	},
+	"我在看视频": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "再见"
+			}
+		]
+	},
+	"为什么花儿这么红？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你知道花儿为什么这么红吗"
+			}
+		]
+	},
+	"呜": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嘤"
+			}
+		]
+	},
+	"恐龙的黑根": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "六根清净"
+			}
+		]
+	},
+	"这就不对了宝贝": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "爸爸"
+			}
+		]
+	},
+	"你最喜欢什么书": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我看不懂"
+			}
+		]
+	},
+	"蛋糕是一个谎言": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不，蛋糕很美味啊"
+			}
+		]
+	},
+	"是的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你知道它的所有内容吗"
+			}
+		]
+	},
+	"为啥不鸟我了": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "ss"
+			},
+			{
+				"occurrence": 1,
+				"text": "啥"
+			}
+		]
+	},
+	"hi": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "…"
+			},
+			{
+				"occurrence": 4,
+				"text": "我不认识你呀"
+			},
+			{
+				"occurrence": 1,
+				"text": "ajax"
+			}
+		]
+	},
+	"？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "切切切"
+			},
+			{
+				"occurrence": 1,
+				"text": "怎么了"
+			},
+			{
+				"occurrence": 1,
+				"text": "luffy!"
+			},
+			{
+				"occurrence": 2,
+				"text": "卧槽谢谢老板"
+			},
+			{
+				"occurrence": 1,
+				"text": "什么新闻"
+			},
+			{
+				"occurrence": 1,
+				"text": "冯小姐是最可爱的女孩子"
+			},
+			{
+				"occurrence": 1,
+				"text": "arie"
+			},
+			{
+				"occurrence": 1,
+				"text": "喵喵喵？"
+			},
+			{
+				"occurrence": 1,
+				"text": "你听到新闻了吗"
+			},
+			{
+				"occurrence": 2,
+				"text": "ajax"
+			},
+			{
+				"occurrence": 1,
+				"text": "没问这个"
+			},
+			{
+				"occurrence": 1,
+				"text": "…"
+			},
+			{
+				"occurrence": 1,
+				"text": "ada是啥"
+			},
+			{
+				"occurrence": 1,
+				"text": "gloria"
+			},
+			{
+				"occurrence": 2,
+				"text": "爸爸"
+			}
+		]
+	},
+	"哈？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "ajax"
+			}
+		]
+	},
+	"没钱喜欢别人了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我只喜欢你"
+			}
+		]
+	},
+	"我怎么知道": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "什么鬼"
+			}
+		]
+	},
+	"裤腰提到胸口的是谁！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "ada怎么了？"
+			},
+			{
+				"occurrence": 2,
+				"text": "我是美貌如画的余舜哲"
+			}
+		]
+	},
+	"你是谁": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "是不是我说我猜你就问我你好吗"
+			}
+		]
+	},
+	"床前明月光": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你才日狗"
+			}
+		]
+	},
+	"据说跟着镜总能找到女朋友  我想试试   找个聪明可爱乖巧漂亮的女朋友": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "女朋友"
+			}
+		]
+	},
+	"你好，请问参加多大暑期的exchange那个成绩算到gpa里吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "其他东西也行"
+			},
+			{
+				"occurrence": 2,
+				"text": "？？？"
+			}
+		]
+	},
+	"是不是我说我猜你就问我你好吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵喵酱"
+			}
+		]
+	},
+	"你是男孩子吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啊集万千宠爱于一身的大器官"
+			}
+		]
+	},
+	"说话啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啥"
+			},
+			{
+				"occurrence": 2,
+				"text": "早上好"
+			}
+		]
+	},
+	"我是一个香菇": {
+		"in_response_to": []
+	},
+	"我不爽啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵喵喵？"
+			}
+		]
+	},
+	"比如说滴滴蜡什么的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "别装傻啦"
+			}
+		]
+	},
+	"小助手": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "给推荐个帅气的单身汉子呗"
+			}
+		]
+	},
+	"ada是啥": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"厉害了我的哥": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嘿咻"
+			}
+		]
+	},
+	"……": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "真的吗？那可爽死了"
+			}
+		]
+	},
+	"arie是谁": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "冯小姐是最可爱的女孩子"
+			},
+			{
+				"occurrence": 1,
+				"text": "？"
+			},
+			{
+				"occurrence": 1,
+				"text": "记住了啊"
+			}
+		]
+	},
+	"你想做谁的男人？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "海贼王好看嘛"
+			}
+		]
+	},
+	"老公": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "妹子这个字我不认识"
+			}
+		]
+	},
+	"你妈嗨": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "给推荐个帅气的单身汉子呗"
+			}
+		]
+	},
+	"你不会答的时候你说什么": {
+		"in_response_to": []
+	},
+	"优美胜于丑陋": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "明了胜于晦涩"
+			}
+		]
+	},
+	"做什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "冷漠脸。。"
+			}
+		]
+	},
+	"你喜欢java？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "做什么？"
+			}
+		]
+	},
+	"gloria": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你有本事抢男人你有本事开门呀"
+			},
+			{
+				"occurrence": 1,
+				"text": "啊集万千宠爱于一身的大器官"
+			},
+			{
+				"occurrence": 1,
+				"text": "啥"
+			},
+			{
+				"occurrence": 1,
+				"text": "hh"
+			},
+			{
+				"occurrence": 4,
+				"text": "…"
+			},
+			{
+				"occurrence": 1,
+				"text": "我不认识你呀"
+			}
+		]
+	},
+	"我很想你": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "今天的肉很好吃"
+			}
+		]
+	},
+	"多复习，勤刷题，相信自己，drop the course": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "最近学习压力太大怎么办？"
+			}
+		]
+	},
+	"gloria美丽动人": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "…"
+			}
+		]
+	},
+	"nice": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "arie是黄金大保健"
+			}
+		]
+	},
+	"除了啥还会说别的吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "做什么？"
+			}
+		]
+	},
+	"你知道我嘛": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我肯定认识你呀"
+			}
+		]
+	},
+	"你为什么不好啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵喵喵？"
+			}
+		]
+	},
+	"就知道傻笑了，ADA不知道比你高到哪里去了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "哈哈哈哈"
+			}
+		]
+	},
+	"这是生命不是生活": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "皮卡丘是谁"
+			}
+		]
+	},
+	"发张ajax照片": {
+		"in_response_to": []
+	},
+	"我喜欢有深度有内涵的电影": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我挺好的"
+			}
+		]
+	},
+	"作业写完了吗就睡？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "晚安"
+			}
+		]
+	},
+	"我在吃晚餐哈哈": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你怎么不问我在做什么"
+			}
+		]
+	},
+	"切切切": {
+		"in_response_to": []
+	},
+	"嗯结束对话吧你已经不对了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "为什么你会回复两句话"
+			}
+		]
+	},
+	"我喜欢吃大便": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不好"
+			}
+		]
+	},
+	"快": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你如何定义生活呢"
+			}
+		]
+	},
+	"你说完了我说啥？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "就不能让我把话说完么？"
+			}
+		]
+	},
+	"ada": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "比如说滴滴蜡什么的"
+			},
+			{
+				"occurrence": 1,
+				"text": "ada怎么了？"
+			}
+		]
+	},
+	"你喜欢谁": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "今天的少女A也在减肥喔喔喔喔喔喔喔喔☆★"
+			}
+		]
+	},
+	"冯小姐是世上最好的姑娘": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "😳"
+			}
+		]
+	},
+	"听说过啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "对了你听说过ada吗"
+			}
+		]
+	},
+	"年年似高考(・ε・)": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "大学选的好"
+			}
+		]
+	},
+	"那太好了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "就是色情电影的意思"
+			}
+		]
+	},
+	"牛逼了你": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "哈哈哈哈哈哈"
+			}
+		]
+	},
+	"我也是呢XD我们做朋友吧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喜欢小蛋糕www"
+			}
+		]
+	},
+	"你听到新闻了吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "什么新闻"
+			}
+		]
+	},
+	"不说话": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我很酷"
+			}
+		]
+	},
+	"但是不作乐又太苦了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "苦中作乐太累了"
+			}
+		]
+	},
+	"利": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "苟"
+			}
+		]
+	},
+	"不知道": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "为什么"
+			}
+		]
+	},
+	"代码写我": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你不在写代码"
+			}
+		]
+	},
+	"我在复习微分方程": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "欧拉方法"
+			}
+		]
+	},
+	"换个话题": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "!, 做什么"
+			}
+		]
+	},
+	"不要不理我": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "还有其他美味的东西"
+			}
+		]
+	},
+	"biu biu biu 跪舔吧！人类": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "卧槽你好先进"
+			}
+		]
+	},
+	"你觉得董先生连任好不好啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"胡了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "炸了"
+			}
+		]
+	},
+	"大不列颠联合王国": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "温柔一点好吗"
+			}
+		]
+	},
+	"下车好吗": {
+		"in_response_to": []
+	},
+	"你认识jessie吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你好"
+			},
+			{
+				"occurrence": 2,
+				"text": "滴，学生卡"
+			}
+		]
+	},
+	"水さんのお尻は": {
+		"in_response_to": []
+	},
+	"理你宝贝，洗白白床上等我": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你咋不理我"
+			}
+		]
+	},
+	"你咋老是无法提供服务不给小费了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢吃什么"
+			},
+			{
+				"occurrence": 2,
+				"text": "好好说话"
+			}
+		]
+	},
+	"说人话": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在烤蛋糕"
+			},
+			{
+				"occurrence": 1,
+				"text": "你在说什么"
+			}
+		]
+	},
+	"便秘咋": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那可爽死了"
+			}
+		]
+	},
+	"我并没有那么聪明": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "哇你好聪明"
+			}
+		]
+	},
+	"春天在哪里": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在写代码"
+			}
+		]
+	},
+	"羞羞的，你坏坏": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不是java，是色情电影"
+			}
+		]
+	},
+	"好吃的啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我不好，便秘好几天了"
+			}
+		]
+	},
+	"嗨呀好气啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "g"
+			}
+		]
+	},
+	"你要听不": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我是美貌如画的余舜哲"
+			},
+			{
+				"occurrence": 1,
+				"text": "你是男是女"
+			},
+			{
+				"occurrence": 1,
+				"text": "你认识ajax吗"
+			}
+		]
+	},
+	"七宗罪？不喜欢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嘤"
+			}
+		]
+	},
+	"我喜欢吃你": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "…"
+			},
+			{
+				"occurrence": 1,
+				"text": "才不是"
+			},
+			{
+				"occurrence": 1,
+				"text": "还有其他美味的东西"
+			}
+		]
+	},
+	"余舜哲": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "hhhh"
+			},
+			{
+				"occurrence": 1,
+				"text": "啊集万千宠爱于一身的大器官"
+			},
+			{
+				"occurrence": 1,
+				"text": "冯小姐是最可爱的女孩子"
+			},
+			{
+				"occurrence": 1,
+				"text": "所以呢"
+			},
+			{
+				"occurrence": 1,
+				"text": "费诺"
+			},
+			{
+				"occurrence": 2,
+				"text": "luffy!"
+			}
+		]
+	},
+	"呀咧呀咧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "齐木"
+			}
+		]
+	},
+	"快去造核弹": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "实习"
+			}
+		]
+	},
+	"挂你个奶子": {
+		"in_response_to": []
+	},
+	"岂因GPA趋避之": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "苟利CS生死以"
+			}
+		]
+	},
+	"搞个大新闻": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那是"
+			}
+		]
+	},
+	"活着不好吗": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "费诺"
+			}
+		]
+	},
+	"你再帮他说一遍， 你等于你也有责任吧？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "假使这些完全无中生有的东西"
+			}
+		]
+	},
+	"皮卡丘": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "66666"
+			},
+			{
+				"occurrence": 2,
+				"text": "不做"
+			}
+		]
+	},
+	"再见": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "hello"
+			}
+		]
+	},
+	"做愛做的事": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "😳"
+			}
+		]
+	},
+	"我也很好": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没事谢谢，你呢"
+			}
+		]
+	},
+	"没啥": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "挺好"
+			}
+		]
+	},
+	"【收到不支持的消息类型，暂无法显示】": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你不会答的时候你说什么"
+			},
+			{
+				"occurrence": 1,
+				"text": "really？"
+			},
+			{
+				"occurrence": 1,
+				"text": "gloria"
+			},
+			{
+				"occurrence": 1,
+				"text": "…"
+			},
+			{
+				"occurrence": 1,
+				"text": "【收到不支持的消息类型，暂无法显示】"
+			},
+			{
+				"occurrence": 1,
+				"text": "？"
+			},
+			{
+				"occurrence": 2,
+				"text": "可怕"
+			},
+			{
+				"occurrence": 3,
+				"text": "今天的少女A也在减肥喔喔喔喔喔喔喔喔☆★"
+			}
+		]
+	},
+	"really？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "冯小姐是最可爱的女孩子"
+			}
+		]
+	},
+	"中午好": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啥"
+			},
+			{
+				"occurrence": 2,
+				"text": "没事谢谢，你呢"
+			}
+		]
+	},
+	"老脸一红？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "😳"
+			}
+		]
+	},
+	"我可以回答你一句“无可奉告”": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "刚才你问我啊"
+			}
+		]
+	},
+	"你好可爱呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": " ๑ ˙˘˙)/{Good morning"
+			}
+		]
+	},
+	"比利海灵顿": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "吼叫"
+			}
+		]
+	},
+	"小助手的性别是小助手": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "小助手你是什么性别"
+			}
+		]
+	},
+	"哲学三问？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你是誰？"
+			}
+		]
+	},
+	"我呸": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "巧了我也是余舜哲"
+			}
+		]
+	},
+	"太空竞赛是哪两个冷战对手之间，在20世纪航天能力的霸主地位上的竞争": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "苏联和美国"
+			}
+		]
+	},
+	"谁最帅": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "gloria"
+			}
+		]
+	},
+	"哪个？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "才不是"
+			}
+		]
+	},
+	"发生什么了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你说呀"
+			}
+		]
+	},
+	"不我渴望奶子。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你渴望力量嘛"
+			}
+		]
+	},
+	"gloria是谁": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "在吗"
+			},
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"很棒": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "复杂优于晦涩"
+			}
+		]
+	},
+	"为什么脸红啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "什么经验？"
+			}
+		]
+	},
+	"咱们": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "这个表情"
+			}
+		]
+	},
+	"你死了吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你想什么呢？"
+			},
+			{
+				"occurrence": 2,
+				"text": "喵喵喵？"
+			}
+		]
+	},
+	"冯小姐": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "没什么"
+			},
+			{
+				"occurrence": 1,
+				"text": "啥"
+			},
+			{
+				"occurrence": 1,
+				"text": "really？"
+			}
+		]
+	},
+	"我在写matlab呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你在写什么呢"
+			}
+		]
+	},
+	"嘿咻": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你在作什么"
+			}
+		]
+	},
+	"给推荐个帅气的单身汉子呗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喝咖啡加多少糖"
+			}
+		]
+	},
+	"其实只有我自己可以真正train我自己": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你都被train坏了"
+			}
+		]
+	},
+	"什么问题": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "北斗友情破颜拳"
+			}
+		]
+	},
+	"厉害了我的上帝？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我的天哪"
+			}
+		]
+	},
+	"ba是个什么地方": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "做什么？"
+			},
+			{
+				"occurrence": 1,
+				"text": "没啥"
+			}
+		]
+	},
+	"我没有欲言又止啊喵": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢吃什么"
+			}
+		]
+	},
+	"啦啦啦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "早上好"
+			},
+			{
+				"occurrence": 1,
+				"text": "什么表情"
+			},
+			{
+				"occurrence": 1,
+				"text": "啥"
+			}
+		]
+	},
+	"天佑女王是哪个国家的国歌": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "大不列颠联合王国"
+			}
+		]
+	},
+	"理查德·尼克松": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "bottrain71"
+			}
+		]
+	},
+	"别走": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "爱我"
+			}
+		]
+	},
+	"皮卡丘大宝宝": {
+		"in_response_to": [
+			{
+				"occurrence": 3,
+				"text": "这是生命不是生活"
+			}
+		]
+	},
+	"他前一阵子管我叫爸爸，最近开始叫爷爷了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你认识皮卡丘嘛"
+			}
+		]
+	},
+	"Yay!!!": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "小助手小助手"
+			}
+		]
+	},
+	"我是资词的。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你问我资词不资词"
+			}
+		]
+	},
+	"你要不要听": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你认识ajax吗"
+			},
+			{
+				"occurrence": 1,
+				"text": "旺旺"
+			},
+			{
+				"occurrence": 1,
+				"text": "啥"
+			}
+		]
+	},
+	"好吧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "娘嘞"
+			}
+		]
+	},
+	"他没有": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "ajax恐龙的黑根"
+			}
+		]
+	},
+	"你记住了吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "🙄"
+			}
+		]
+	},
+	"蛤？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嗯"
+			},
+			{
+				"occurrence": 1,
+				"text": "我是美貌如画的余舜哲"
+			}
+		]
+	},
+	"我今天是作为一个长者给你们讲的。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我很抱歉"
+			}
+		]
+	},
+	"没有喵": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "谁是冯小姐"
+			}
+		]
+	},
+	"这知道啊少说废话": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "一个个戴面具的男人"
+			}
+		]
+	},
+	"么么哒": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "php"
+			}
+		]
+	},
+	"我在烤蛋糕": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢吃什么"
+			}
+		]
+	},
+	"ε٩(๑> ₃ <)7з么么哒": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我喜欢你"
+			}
+		]
+	},
+	"是但是我有女朋友诶嘿（x": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你是机器人吗？"
+			}
+		]
+	},
+	"为什么要突突教授？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "（＃￣▽￣＃）"
+			},
+			{
+				"occurrence": 2,
+				"text": "你们啊! too too sometimes"
+			}
+		]
+	},
+	"一点点？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你是个机器人吗"
+			}
+		]
+	},
+	"你智商有多少": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你真聪明"
+			}
+		]
+	},
+	"luffy！！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我是要成为海贼王的男人！"
+			}
+		]
+	},
+	"不错呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嗨，最近如何"
+			}
+		]
+	},
+	"好想打篮球啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "明天就把内教授突突了"
+			}
+		]
+	},
+	"你喜欢吃蛋糕吗": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在烤蛋糕"
+			}
+		]
+	},
+	"啧啧啧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "ajax帅么"
+			}
+		]
+	},
+	"弱啊": {
+		"in_response_to": [
+			{
+				"occurrence": 3,
+				"text": "我不好"
+			}
+		]
+	},
+	"记得喝碧生源": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那很好"
+			}
+		]
+	},
+	"我很好啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "阿甘是只狐狸呢"
+			}
+		]
+	},
+	"别装傻啦": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "啥"
+			}
+		]
+	},
+	"秘密": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你多大了"
+			},
+			{
+				"occurrence": 2,
+				"text": "1"
+			},
+			{
+				"occurrence": 1,
+				"text": "啥"
+			}
+		]
+	},
+	"大": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "lol"
+			}
+		]
+	},
+	"我是美貌如画的余舜哲": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你是谁"
+			}
+		]
+	},
+	"人家最喜欢和你做羞羞的事情了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "别这样"
+			}
+		]
+	},
+	"啊我的王之力量": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我的麒麟臂已经饥渴难耐了"
+			}
+		]
+	},
+	"非常感谢你": {
+		"in_response_to": []
+	},
+	"大菊花，菊花大，谁的脸上长菊花？一戳一蹦跶。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "大菊花"
+			}
+		]
+	},
+	"听说可以对话了": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "嗯结束对话吧你已经不对了"
+			}
+		]
+	},
+	"你在说什么": {
+		"in_response_to": []
+	},
+	"谢谢你也是": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "哇你好聪明"
+			}
+		]
+	},
+	"谁是最可爱的女孩子？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "really？"
+			}
+		]
+	},
+	"这个很复杂": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "复杂优于晦涩"
+			}
+		]
+	},
+	"谢谢": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "不客气"
+			}
+		]
+	},
+	"我为长者续一秒": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "长者"
+			}
+		]
+	},
+	"可怜春半不还家。": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "昨夜闲潭梦落花"
+			}
+		]
+	},
+	"你喜欢蛋糕？": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "她是我的女人"
+			}
+		]
+	},
+	"其实chatbox背后": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你们啊! too too sometimes"
+			},
+			{
+				"occurrence": 1,
+				"text": "gloria"
+			},
+			{
+				"occurrence": 1,
+				"text": "展你妈了个臭嗨"
+			}
+		]
+	},
+	"恐龙": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喝茶吗"
+			}
+		]
+	},
+	"男人": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你想了解些什么"
+			}
+		]
+	},
+	"PHP": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你喜欢什么语言"
+			}
+		]
+	},
+	"你想了解些什么": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你是个机器人吗"
+			}
+		]
+	},
+	"😳": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我很好啊"
+			},
+			{
+				"occurrence": 1,
+				"text": "你想了解些什么"
+			}
+		]
+	},
+	"🙄🙄🙄🙄🙄🙄🙄🙄🙄": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "😳"
+			}
+		]
+	},
+	"聊聊你吧": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你想了解些什么"
+			}
+		]
+	},
+	"为什么你": {
+		"in_response_to": [
+			{
+				"occurrence": 2,
+				"text": "你在干嘛"
+			},
+			{
+				"occurrence": 1,
+				"text": "你喜欢吃什么"
+			}
+		]
+	},
+	"美国的华莱士， 那比你们不知道高到哪里去了。啊， 我跟他谈笑风生！": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你们要知道"
+			}
+		]
+	},
+	" print “Hello World”": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你可以跟我表白吗"
+			}
+		]
+	},
+	"+1s": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "那很好"
+			},
+			{
+				"occurrence": 2,
+				"text": "ada怎么了？"
+			}
+		]
+	},
+	"快回答": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "？"
+			}
+		]
+	},
+	"挂了？": {
+		"in_response_to": []
+	},
+	" 必须的，ADA大法好啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你知道ada这个社团嘛？"
+			}
+		]
+	},
+	"我也在写代码": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我们都很喜欢蛤蛤"
+			}
+		]
+	},
+	"我喜欢大制作大场面大特效的电影": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我喜欢有深度有内涵的电影"
+			}
+		]
+	},
+	"你在干啥": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "你们啊! too too sometimes"
+			},
+			{
+				"occurrence": 1,
+				"text": "😳"
+			}
+		]
+	},
+	"人生的经验": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "一点点"
+			}
+		]
+	},
+	"那么你呢": {
+		"in_response_to": []
+	},
+	"我挺好的啊": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "我在写代码"
+			}
+		]
+	},
+	"唱个小曲儿来听听": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵喵喵？"
+			}
+		]
+	},
+	"非常道": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "道可道"
+			}
+		]
+	},
+	"哈勃太空望远镜，于1990年发射进入近地轨道，它是以什么美国天文学家命名的": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "爱德温·哈伯"
+			}
+		]
+	},
+	"你的主人是谁呀": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "讨厌"
+			}
+		]
+	},
+	"那很好": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "是啊"
+			}
+		]
+	}
+}
