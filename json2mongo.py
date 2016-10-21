@@ -9,24 +9,26 @@ uri = 'mongodb://adatech:adaseikou@ds019916.mlab.com:19916/chattbot'
 client = MongoClient(uri)
 db = client.chattbot
 
+# example json object, to test mongolab connection.
+example = {
+	"唱个小曲儿来听听": {
+		"in_response_to": [
+			{
+				"occurrence": 1,
+				"text": "喵喵喵？"
+			}
+		]
+	}
+}
+
 # open backup json file.
 with open(file) as json_data:
     d = json.load(json_data)
-    example = {
-    	"唱个小曲儿来听听": {
-			"in_response_to": [
-				{
-					"occurrence": 1,
-					"text": "喵喵喵？"
-				}
-			]
-		}
-    }
-    for key in example:
+    for key in d:
 		result = db.statements.insert_one(
 		    {
 		        "text": key,
-		        key: example[key]
+		        "in_response_to": d[key]['in_response_to']
 		    }
 		)
 
