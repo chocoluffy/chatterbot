@@ -2,6 +2,7 @@
 from chatterbot import ChatBot
 from flask.ext.api import FlaskAPI
 from flask import request, current_app, abort, jsonify
+import json
 
 ### using mongolab uri.
 chatbot = ChatBot(
