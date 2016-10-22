@@ -29,12 +29,25 @@ First test on planB, then manually copy modified files to AirLoftTech to push to
 
 ## Important Notes
 
-newdata...json file mainly used as the real database material;
-backupclean...json file mainly used as a cleaner view of material.
+`newdata...json` file mainly used as the real database material.
+
+`backupclean...json` file mainly used as a cleaner view of material.
 
 Try to format things in backupclean(more human readable), then use `jsondump.py` to convert it into unicode file.(16.10.21: upload all latest json object to mongolab database).
 
 Then, try locally test the chatbot with `test.py`.
+
+I re-structure the files into different folders, the files inside `secondary` are less important than the first-level files.
+
+`text2unicode.py` simply just load the json file and restore it into another file, but can help convert text into unicode, which python3 can consume, making sure `python3 test.py` can run is the key!!
+
+`conversation.json` contains usual sentences, which will be hard-coded for chatbot, can be shared with Google Docs and extended it by all. It requires no machine learning, simply hard match!
+
+`conversation_unicode.json`, the file generated after running `text2unicode.py`, is used by `app.py` and `test.py`
+
+`json2mongo.py` uploads json file to mongolab, with same format as chatterbot examples!
+
+
 
 ## Reading Materials
 
