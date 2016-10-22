@@ -5,6 +5,7 @@ from datetime import datetime
 import json 
 
 file = 'backupclean161021.json' # human readable
+conversation = 'conversation.json' # hard-coded conversation materials
 uri = 'mongodb://adatech:adaseikou@ds019916.mlab.com:19916/chattbot'
 client = MongoClient(uri)
 db = client.chattbot

@@ -32,6 +32,11 @@ First test on planB, then manually copy modified files to AirLoftTech to push to
 newdata...json file mainly used as the real database material;
 backupclean...json file mainly used as a cleaner view of material.
 
-Try to format things in backupclean(more human readable), then use `jsondump.py` to convert it into unicode file.
+Try to format things in backupclean(more human readable), then use `jsondump.py` to convert it into unicode file.(16.10.21: upload all latest json object to mongolab database).
 
 Then, try locally test the chatbot with `test.py`.
+
+## Reading Materials
+
+- [mongolab uri](http://stackoverflow.com/questions/32679227/remote-mongo-connection-via-pymongo)
+- [pymongo insert a document into collection](https://docs.mongodb.com/getting-started/python/insert/)
