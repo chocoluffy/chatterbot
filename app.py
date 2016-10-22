@@ -11,7 +11,8 @@ chatbot = ChatBot(
     storage_adapter="chatterbot.adapters.storage.MongoDatabaseAdapter",
     logic_adapters=[
         "chatterbot.adapters.logic.MathematicalEvaluation",
-        "chatterbot.adapters.logic.TimeLogicAdapter"
+        "chatterbot.adapters.logic.TimeLogicAdapter",
+        "chatterbot.adapters.logic.ClosestMatchAdapter"
     ],
     database='chattbot',
     database_uri='mongodb://adatech:adaseikou@ds019916.mlab.com:19916/chattbot'
