@@ -17,7 +17,7 @@ chatbot = ChatBot(
     database_uri='mongodb://adatech:adaseikou@ds019916.mlab.com:19916/chattbot'
 )
 
-d = json.loads(open('conversation.json').read()) # a better way to load json file data.
+d = json.loads(open('conversation_unicode.json').read()) # a better way to load json file data.
 
 # chatbot.train("chatterbot.corpus.chinese")
 app = FlaskAPI(__name__)

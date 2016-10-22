@@ -39,7 +39,7 @@ chatbot = ChatBot(
 # with open('conversation.json') as json_data: # if user-input text collide with hard-coded answers, responds back.
 #     d = json.load(json_data)
 
-d = json.loads(open('conversation.json').read()) # a better way to load json file data.
+d = json.loads(open('conversation_unicode.json').read()) # a better way to load json file data.
 
 while True:
 	query = input("ask: ")
