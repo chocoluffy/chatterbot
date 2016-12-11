@@ -41,9 +41,9 @@ I re-structure the files into different folders, the files inside `secondary` ar
 
 `text2unicode.py` simply just load the json file and restore it into another file, but can help convert text into unicode, which python3 can consume, making sure `python3 test.py` can run is the key!!
 
-`conversation.json` contains usual sentences, which will be hard-coded for chatbot, can be shared with Google Docs and extended it by all. It requires no machine learning, simply hard match!
+`conversation.json` contains usual sentences, which will be hard-coded for chatbot, can be shared with Google Docs and extended it by all. It requires no machine learning, simply hard match! Used by `text2unicode.py`, by adding most frequent fix response to this json, and run that script, the produced `conversation_unicode.json` can be used in production.
 
-`conversation_unicode.json`, the file generated after running `text2unicode.py`, is used by `app.py` and `test.py`
+`conversation_unicode.json`, the file generated after running `text2unicode.py`, is used by `app.py` and `test.py`.
 
 `json2mongo.py` uploads json file to mongolab, with same format as chatterbot examples!
 

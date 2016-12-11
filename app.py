@@ -3,6 +3,7 @@ from chatterbot import ChatBot
 from flask.ext.api import FlaskAPI
 from flask import request, current_app, abort, jsonify
 import json
+import re
 
 ### using mongolab uri.
 chatbot = ChatBot(
@@ -29,7 +30,9 @@ def chat():
 	if token == 'yushunzhe':
 		query = request.data.get('query')
 		if query in d.keys():
-			return {"response": d[query]}	
+			return {"response": d[query]}
+        elif re.match(r'[A-Za-z]', query):
+             return {"response": d['-1']} # use default -1 to respond with characters query.
 		else:
 			return {"response": str(chatbot.get_response(query))}
 	else:
