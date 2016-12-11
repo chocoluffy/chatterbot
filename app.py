@@ -31,8 +31,8 @@ def chat():
 		query = request.data.get('query')
 		if query in d.keys():
 			return {"response": d[query]}
-        elif re.match(r'[A-Za-z]', query):
-            return {"response": d['-1']} # use default -1 to respond with characters query.
+		elif re.match(r'[A-Za-z]', query):
+			return {"response": d['-1']} # use default -1 to respond with characters query.
 		else:
 			return {"response": str(chatbot.get_response(query))}
 	else:
