@@ -1,3 +1,8 @@
+## Usage
+
+`pm2 start index.js --max-memory-restart 150M`
+`python3 app.py` makes sure the backend runs in here: http://localhost:5002/chat
+
 Important fact that chatterbot must be installed under python3. Thus, in order to deploy on Ubuntu server, we must create an virtual environment that have python3 support.
 
 (create a virtualenv using conda)[https://www.continuum.io/blog/developer-blog/python-3-support-anaconda]
